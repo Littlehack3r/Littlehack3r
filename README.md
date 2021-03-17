@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+My name is Shannon McHale and I am a senior at RIT. I love security and presenting everything I learn about it. 
 
 <!--
 **Littlehack3r/Littlehack3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
