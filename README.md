@@ -1,5 +1,5 @@
 ### Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Shannon McHale and I am a red teamer at Mandiant developing and delivering our GCP Penetration Tests. I love security and presenting everything I learn about it. 
+My name is Shannon McHale and I am a red teamer developing and delivering GCP Penetration Tests. I love security and presenting everything I learn about it. 
 
 <!--
 **Littlehack3r/Littlehack3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
